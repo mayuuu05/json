@@ -35,7 +35,7 @@ Example of a JSON array:
 ### 📝 Different data types supported in JSON  
 
 -  String
--  - Number
+- Number
 
 - Boolean
 
