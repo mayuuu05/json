@@ -1,6 +1,6 @@
 # Json (JavaScript Object Notation)
 
-# 🌐 ch - 8 What is JSON & JSON Parsing ?
+# 🌐 Ch - 8 What is JSON & JSON Parsing ?
 
 
 JSON (JavaScript Object Notation) is a lightweight data-interchange format that is easy to read and write for humans and easy to parse and generate for machines. It is commonly used for transmitting data between a server and web applications as text.
