@@ -35,21 +35,25 @@ Example of a JSON array:
 ### 📝 Different data types supported in JSON  
 
 -  String
+-  - Number
 
-Example
-```
-"Hello, World!"
-```
-- Number
-```
-42
-3.14
-```
 - Boolean
+
+Examples
 ```
+
+"Hello, World!"//String
+
+42
+3.14// Number
+
 true 
-false
+false// Boolean
+
+
 ```
+
+
 
 
 
@@ -89,7 +93,7 @@ Example :
 ```
 
 ## 📖 Readability:
-####JSON:
+#### JSON:
 
  - JSON is generally more readable and easier for humans to parse visually due to its concise syntax and lack of verbose tags.
 Example is straightforward and less cluttered.
