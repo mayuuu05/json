@@ -1,4 +1,4 @@
-# json
+# Json (JavaScript Object Notation)
 
 # 🌐 ch - 8 What is JSON & JSON Parsing ?
 
