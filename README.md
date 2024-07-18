@@ -1,6 +1,6 @@
 # json
 
-# ch - 8 What is JSON & JSON Parsing ?
+# 🌐 ch - 8 What is JSON & JSON Parsing ?
 
 
 JSON (JavaScript Object Notation) is a lightweight data-interchange format that is easy to read and write for humans and easy to parse and generate for machines. It is commonly used for transmitting data between a server and web applications as text.
@@ -9,7 +9,7 @@ JSON (JavaScript Object Notation) is a lightweight data-interchange format that 
 - Objects: Unordered collections of key-value pairs.
 - Arrays: Ordered lists of values.
   
-## JSON Objects
+## 📋 JSON Objects
 JSON objects are enclosed in curly braces {} and consist of key-value pairs separated by commas. Each key must be a string enclosed in double quotes ", followed by a colon : and then the corresponding value. Keys must be unique within an object.
 Example of a JSON Object:
 ```json
@@ -20,7 +20,7 @@ Example of a JSON Object:
 }
 ```
 
-## JSON Arrays
+## 📁 JSON Arrays
 
 JSON arrays are enclosed in square brackets [] and contain an ordered list of values separated by commas. Values can be of any JSON data type, including objects and other arrays.
 Example of a JSON array:
@@ -32,7 +32,7 @@ Example of a JSON array:
 ]
 ```
 
-###  Different data types supported in JSON  
+### 📝 Different data types supported in JSON  
 
 -  String
 
@@ -54,7 +54,7 @@ false
 
 
 
-## Structure:
+## 🏗️ Structure:
 ### JSON:
 
 Structure: JSON uses a lightweight, text-based format consisting of key-value pairs for objects and arrays for ordered lists of values.
@@ -70,7 +70,7 @@ Example:
 ```
 Structure is simpler and more intuitive for representing data.
 
-###  XML
+### 📄 XML
 - XML stands for eXtensible Markup Language.
 Structure: XML uses tags to define elements within a document, allowing for hierarchical data representation.
 
@@ -88,7 +88,7 @@ Example :
 </person>
 ```
 
-### Readability:
+### 📖 Readability:
 - JSON:
 
  JSON is generally more readable and easier for humans to parse visually due to its concise syntax and lack of verbose tags.
@@ -98,7 +98,7 @@ Example is straightforward and less cluttered.
 XML can be more difficult to read and understand, especially for larger documents, due to its verbose nature with opening and closing tags.
 Example can become cluttered and harder to interpret at a glance.
 
-### Efficiency:
+### ⚡ Efficiency:
 - JSON:
 
 Efficiency: JSON tends to be more efficient in terms of data transmission and parsing, especially for web applications, due to its lighter syntax.
@@ -108,7 +108,7 @@ Example uses less characters to convey the same information.
 Efficiency: XML documents are generally larger in size compared to equivalent JSON documents, which can impact efficiency in data transfer and storage.
 Example tends to be larger in terms of file size.
 
-### Use cases
+### 🚀 Use cases
 
 - JSON:
 
