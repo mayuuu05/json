@@ -31,7 +31,6 @@ Example of a JSON array:
   "Orange"
 ]
 ```
-
 ### 📝 Different data types supported in JSON  
 
 -  String
