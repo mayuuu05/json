@@ -19,7 +19,6 @@ Example of a JSON Object:
   "city": "New York"
 }
 ```
-
 ## 📁 JSON Arrays
 
 JSON arrays are enclosed in square brackets [] and contain an ordered list of values separated by commas. Values can be of any JSON data type, including objects and other arrays.
