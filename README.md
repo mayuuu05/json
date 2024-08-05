@@ -39,7 +39,6 @@ Example of a JSON array:
 
 Examples
 ```
-
 "Hello, World!"//String
 
 42
@@ -47,8 +46,6 @@ Examples
 
 true 
 false// Boolean
-
-
 ```
 
 
